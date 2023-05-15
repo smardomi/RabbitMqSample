@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yVfm/NcLBwpwlG9SZYWQDFPaAsKUzICvNTP43pQ0DYg=",
+  "Source": "RabbitMqSample.Publisher",
+  "BasePath": "_content/RabbitMqSample.Publisher",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

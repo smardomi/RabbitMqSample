@@ -1,0 +1,12 @@
+D:\Mardomi\Projects\RabbitMqSample\RabbitMqSample.Logging\bin\Debug\net7.0\RabbitMqSample.Logging.deps.json
+D:\Mardomi\Projects\RabbitMqSample\RabbitMqSample.Logging\bin\Debug\net7.0\RabbitMqSample.Logging.dll
+D:\Mardomi\Projects\RabbitMqSample\RabbitMqSample.Logging\bin\Debug\net7.0\RabbitMqSample.Logging.pdb
+D:\Mardomi\Projects\RabbitMqSample\RabbitMqSample.Logging\obj\Debug\net7.0\RabbitMqSample.Logging.csproj.AssemblyReference.cache
+D:\Mardomi\Projects\RabbitMqSample\RabbitMqSample.Logging\obj\Debug\net7.0\RabbitMqSample.Logging.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mardomi\Projects\RabbitMqSample\RabbitMqSample.Logging\obj\Debug\net7.0\RabbitMqSample.Logging.AssemblyInfoInputs.cache
+D:\Mardomi\Projects\RabbitMqSample\RabbitMqSample.Logging\obj\Debug\net7.0\RabbitMqSample.Logging.AssemblyInfo.cs
+D:\Mardomi\Projects\RabbitMqSample\RabbitMqSample.Logging\obj\Debug\net7.0\RabbitMqSample.Logging.csproj.CoreCompileInputs.cache
+D:\Mardomi\Projects\RabbitMqSample\RabbitMqSample.Logging\obj\Debug\net7.0\RabbitMqSample.Logging.dll
+D:\Mardomi\Projects\RabbitMqSample\RabbitMqSample.Logging\obj\Debug\net7.0\refint\RabbitMqSample.Logging.dll
+D:\Mardomi\Projects\RabbitMqSample\RabbitMqSample.Logging\obj\Debug\net7.0\RabbitMqSample.Logging.pdb
+D:\Mardomi\Projects\RabbitMqSample\RabbitMqSample.Logging\obj\Debug\net7.0\ref\RabbitMqSample.Logging.dll

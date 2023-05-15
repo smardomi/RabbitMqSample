@@ -1,0 +1,12 @@
+D:\Mardomi\Projects\RabbitMqSample\RabbitMqSample.Shared\bin\Debug\net7.0\RabbitMqSample.Shared.deps.json
+D:\Mardomi\Projects\RabbitMqSample\RabbitMqSample.Shared\bin\Debug\net7.0\RabbitMqSample.Shared.dll
+D:\Mardomi\Projects\RabbitMqSample\RabbitMqSample.Shared\bin\Debug\net7.0\RabbitMqSample.Shared.pdb
+D:\Mardomi\Projects\RabbitMqSample\RabbitMqSample.Shared\obj\Debug\net7.0\RabbitMqSample.Shared.csproj.AssemblyReference.cache
+D:\Mardomi\Projects\RabbitMqSample\RabbitMqSample.Shared\obj\Debug\net7.0\RabbitMqSample.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mardomi\Projects\RabbitMqSample\RabbitMqSample.Shared\obj\Debug\net7.0\RabbitMqSample.Shared.AssemblyInfoInputs.cache
+D:\Mardomi\Projects\RabbitMqSample\RabbitMqSample.Shared\obj\Debug\net7.0\RabbitMqSample.Shared.AssemblyInfo.cs
+D:\Mardomi\Projects\RabbitMqSample\RabbitMqSample.Shared\obj\Debug\net7.0\RabbitMqSample.Shared.csproj.CoreCompileInputs.cache
+D:\Mardomi\Projects\RabbitMqSample\RabbitMqSample.Shared\obj\Debug\net7.0\RabbitMqSample.Shared.dll
+D:\Mardomi\Projects\RabbitMqSample\RabbitMqSample.Shared\obj\Debug\net7.0\refint\RabbitMqSample.Shared.dll
+D:\Mardomi\Projects\RabbitMqSample\RabbitMqSample.Shared\obj\Debug\net7.0\RabbitMqSample.Shared.pdb
+D:\Mardomi\Projects\RabbitMqSample\RabbitMqSample.Shared\obj\Debug\net7.0\ref\RabbitMqSample.Shared.dll

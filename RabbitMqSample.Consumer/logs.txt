@@ -1,0 +1,20 @@
+2023-05-15 09:38:29.619 +03:30 [INF] Configured endpoint Product-queue, Consumer: RabbitMqSample.Consumer.Consumers.ItemCreatedEventConsumer
+2023-05-15 09:38:30.034 +03:30 [INF] Now listening on: http://localhost:5205
+2023-05-15 09:38:30.035 +03:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-15 09:38:30.035 +03:30 [INF] Hosting environment: Development
+2023-05-15 09:38:30.035 +03:30 [INF] Content root path: D:\Mardomi\Projects\RabbitMqSample\RabbitMqSample.Consumer
+2023-05-15 09:38:30.293 +03:30 [INF] Bus started: "rabbitmq://localhost:0/"
+2023-05-15 09:38:51.211 +03:30 [INF] Event consumed successfully.
+2023-05-15 09:40:18.295 +03:30 [INF] Configured endpoint Product-queue, Consumer: RabbitMqSample.Consumer.Consumers.ItemCreatedEventConsumer
+2023-05-15 09:40:18.764 +03:30 [INF] Now listening on: http://localhost:5205
+2023-05-15 09:40:18.765 +03:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-15 09:40:18.765 +03:30 [INF] Hosting environment: Development
+2023-05-15 09:40:18.765 +03:30 [INF] Content root path: D:\Mardomi\Projects\RabbitMqSample\RabbitMqSample.Consumer
+2023-05-15 09:40:18.902 +03:30 [INF] Bus started: "rabbitmq://localhost:0/"
+2023-05-15 09:41:31.207 +03:30 [INF] Event consumed successfully.
+2023-05-15 09:41:31.207 +03:30 [INF] Event consumed successfully.
+2023-05-15 09:41:31.207 +03:30 [INF] Event consumed successfully.
+2023-05-15 09:41:31.207 +03:30 [INF] Event consumed successfully.
+2023-05-15 09:41:31.207 +03:30 [INF] Event consumed successfully.
+2023-05-15 09:41:31.229 +03:30 [INF] Event consumed successfully.
+2023-05-15 09:43:06.419 +03:30 [INF] Event consumed successfully.

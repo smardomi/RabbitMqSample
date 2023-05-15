@@ -1,0 +1,69 @@
+name: dockercompose6842427212426890470
+services:
+  publisherdb:
+    container_name: publisherdb
+    environment:
+      ACCEPT_EULA: '"Y"'
+      MSSQL_SA_PASSWORD: '"Adm!n01441373"'
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 1433
+      published: "14333"
+      protocol: tcp
+    restart: always
+  rabbitmq:
+    container_name: rabbitmq
+    image: rabbitmq:3-management
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 5672
+      published: "5672"
+      protocol: tcp
+    - mode: ingress
+      target: 15672
+      published: "15672"
+      protocol: tcp
+    restart: always
+  rabbitmqsample.consumer:
+    build:
+      context: D:\Mardomi\Projects\RabbitMqSample
+      dockerfile: RabbitMqSample.Consumer/Dockerfile
+    container_name: consumer.api
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: rabbitmqsampleconsumer
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      published: "8000"
+      protocol: tcp
+  rabbitmqsample.publisher:
+    build:
+      context: D:\Mardomi\Projects\RabbitMqSample
+      dockerfile: RabbitMqSample.Publisher/Dockerfile
+    container_name: publisher.api
+    depends_on:
+      publisherdb:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ConnectionStrings:SqlServer: Server=publisherdb;Database=RabbitMqSample;User
+        Id=sa;Password=Adm!n01441373;Integrated Security=false;
+    image: rabbitmqsamplepublisher
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      published: "8001"
+      protocol: tcp
+networks:
+  default:
+    name: dockercompose6842427212426890470_default
